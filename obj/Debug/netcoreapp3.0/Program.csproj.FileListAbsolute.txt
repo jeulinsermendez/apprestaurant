@@ -1,0 +1,13 @@
+C:\Users\leino\source\repos\Program\bin\Debug\netcoreapp3.0\Program.exe
+C:\Users\leino\source\repos\Program\bin\Debug\netcoreapp3.0\Program.deps.json
+C:\Users\leino\source\repos\Program\bin\Debug\netcoreapp3.0\Program.runtimeconfig.json
+C:\Users\leino\source\repos\Program\bin\Debug\netcoreapp3.0\Program.runtimeconfig.dev.json
+C:\Users\leino\source\repos\Program\bin\Debug\netcoreapp3.0\Program.dll
+C:\Users\leino\source\repos\Program\bin\Debug\netcoreapp3.0\Program.pdb
+C:\Users\leino\source\repos\Program\obj\Debug\netcoreapp3.0\Program.csprojAssemblyReference.cache
+C:\Users\leino\source\repos\Program\obj\Debug\netcoreapp3.0\Program.AssemblyInfoInputs.cache
+C:\Users\leino\source\repos\Program\obj\Debug\netcoreapp3.0\Program.AssemblyInfo.cs
+C:\Users\leino\source\repos\Program\obj\Debug\netcoreapp3.0\Program.dll
+C:\Users\leino\source\repos\Program\obj\Debug\netcoreapp3.0\Program.pdb
+C:\Users\leino\source\repos\Program\bin\Debug\netcoreapp3.0\itextsharp.dll
+C:\Users\leino\source\repos\Program\obj\Debug\netcoreapp3.0\Program.csproj.CopyComplete
